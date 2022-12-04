@@ -1,5 +1,4 @@
 # Face-Emotion-Recognition
-Emotion Detection using Convolutional Neural Networks
 
 
 ## :chart_with_upwards_trend: Desciription Of Model
