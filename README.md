@@ -5,7 +5,7 @@
 Computer vision (CV) can recognize and tell you what your emotion is by just looking at your facial expressions.OpenCV and webcam are used in this program to check emotions in real time. The program is a computer vision model created using Keras and the Convolutional Neural Network (CNN).
 
 
-### Model training accuracy & loss results
+### Model accuracy & loss results
 <img src="https://github.com/elifsare/Realtime-Emotion-Recognition/blob/main/reasults.png" />
 
 
@@ -16,6 +16,5 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 
 ## :monocle_face: For more...
-- [VGG-16](https://www.geeksforgeeks.org/vgg-16-cnn-model/)
 - [Introduction to Convolutional Neural Network](https://pythongeeks.org/convolutional-neural-network/)
 - [Introduction OpenCV haar Cascade](https://www.educba.com/opencv-haar-cascade/)
