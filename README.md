@@ -2,7 +2,7 @@
 
 
 ## :chart_with_upwards_trend: Desciription Of Model
-Computer vision (CV) can recognize and tell you what your emotion is by just looking at your facial expressions.OpenCV and webcam are used in this program to check emotions in real time. The program is a computer vision model created using VGG16, a variant of Keras and Convolutional Neural Network (CNN).
+Computer vision (CV) can recognize and tell you what your emotion is by just looking at your facial expressions.OpenCV and webcam are used in this program to check emotions in real time. The program is a computer vision model created using Keras and the Convolutional Neural Network (CNN).
 
 
 ### Model training accuracy & loss results
